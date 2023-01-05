@@ -1,0 +1,27 @@
+#ship types
+# Patrol Boat (2) p P
+# Battleship (4) b B
+# Submarine (3) s S
+# Destroyer (3) d D
+# Carrier (5) c C
+
+
+
+ 1234567890
+A-bbBB-----
+B---x---x--
+C-x-pp-----
+D-s---x----
+E-s-----x--
+F-s--------
+G----ddd---
+HCCCCC-----
+I----------
+J----------
+
+Ship makers depend on their name
+Uppercase means ship part is alive
+Lowercase means ship part was hit
+x signifys a miss
+
+Board is 10x10
